@@ -22,7 +22,6 @@ The analysis is powered by a multi-dimensional dataset containing 13 core featur
 •	Operational: Quantity and Payment_Method
  
 🖼️ Dashboard Suite: Detailed Explanation
-
 Page 1: Executive Command Center
 Focus: High-Level Health
 This page acts as the "North Star" for leadership. It features KPI Cards for instant financial health checks and a Monthly Revenue Trend to track seasonality. It answers the question: Are we growing month-over-month?
@@ -50,4 +49,3 @@ Based on the data, this project suggests three immediate actions:
 1.	Discount Guardrails: Cap discounts at $15\%$ for the Beauty and Electronics categories to prevent margin erosion.
 2.	Regional Expansion: Aggressively target the North region, which currently maintains the highest average transaction value.
 3.	Payment Incentives: Promote UPI and Debit transactions to reduce the cost of credit processing and improve liquidity.
-<img width="468" height="654" alt="image" src="https://github.com/user-attachments/assets/caffea06-16f1-4dd9-9e17-91b70c90e4bd" />
